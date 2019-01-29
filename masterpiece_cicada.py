@@ -5,7 +5,7 @@
 ''' 
 Script for generating models, then align and protonate them.
 You need to pass the receptor name in argument to the script,
-like > masterpiece_cicada.py hOR2J3
+like > masterpiece_cicada.py -i hOR2J3
 Your current folder need to have :
         - templates/  folder (with all the templates files you use).
         - aignment.pir file, for MODELLER.
